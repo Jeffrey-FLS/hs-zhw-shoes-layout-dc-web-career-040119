@@ -24,6 +24,10 @@
 
 /* Positioning Classes */
 
+.feature {
+  margin-top: 10px;
+}
+
 
 .col-4 {
   float: left;
