@@ -94,7 +94,7 @@ h2 {
 }
 
 .col-4:first-child {
-  margin-left: 0;
+  margin-left: 0 !important;
   padding-left: 0;
 }
 
