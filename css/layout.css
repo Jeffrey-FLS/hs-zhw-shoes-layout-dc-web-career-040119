@@ -95,6 +95,7 @@ h2 {
 
 .col-4:first-child {
   margin-left: 0;
+  padding-left: 0;
 }
 
 .col-4:last-child {
