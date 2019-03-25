@@ -45,6 +45,7 @@ h2 {
 .col-11,
 .col-12 {
   float: left;
+  padding: 0;
   }
 
 .col-12 {
