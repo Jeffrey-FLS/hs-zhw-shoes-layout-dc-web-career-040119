@@ -87,17 +87,17 @@ h2 {
   width: 8.33333333%;
 }
 
-/*.col-4 {*/
-/*  float: left;*/
-/*  width: 23.5%;*/
-/*  margin: 1%;*/
-/*}*/
+.col-4 {
+  float: left;
+  width: 23.5%;
+  margin: 1%;
+}
 
-/*.col-4:first-child {*/
-/*  margin-left: 0;*/
-/*}*/
+.col-4:first-child {
+  margin-left: 0;
+}
 
-/*.col-4:last-child {*/
-/*  margin-right: 0;*/
-/*}*/
+.col-4:last-child {
+  margin-right: 0;
+}
 
