@@ -30,11 +30,12 @@ h2 {
 
 .feature-title h2 {
   margin-top: 10px;
+  margin-bottom: 10px;
 }
 
-.shoe-archive {
-  margin-top: ;
-}
+/*.shoe-archive {*/
+/*  margin-top: ;*/
+/*}*/
 
 .col-1,
 .col-2,
