@@ -47,16 +47,7 @@ h2 {
   padding-left: 15px;
   }
 
-.col-12 {
-  width: 100%;
-}
-.col-11 {
-  width: 91.66666667%;
-}
-.col-lg-10 {
-  width: 83.33333333%;
-}
-.col-lg-9 {
+.col-9 {
   width: 75%;
 }
 .col-8 {
