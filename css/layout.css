@@ -9,6 +9,10 @@
   -moz-box-sizing: border-box;
 }
 
+h2 {
+  line-height: 20px;
+}
+
 .clearfix:after {
   content: ".";
   display: block;
